@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_529
+2
+290 142 168 235 0.9980368 
+721 643 24 29 0.06864692 

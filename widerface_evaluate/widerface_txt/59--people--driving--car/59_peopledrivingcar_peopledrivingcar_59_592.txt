@@ -1,0 +1,4 @@
+59_peopledrivingcar_peopledrivingcar_59_592
+2
+388 65 37 38 0.99372274 
+709 529 52 51 0.026046395 

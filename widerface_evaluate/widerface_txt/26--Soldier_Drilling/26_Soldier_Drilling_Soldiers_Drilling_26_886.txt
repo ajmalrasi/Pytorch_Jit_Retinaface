@@ -1,0 +1,4 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_886
+2
+675 101 64 70 0.99913317 
+529 105 57 66 0.09060115 

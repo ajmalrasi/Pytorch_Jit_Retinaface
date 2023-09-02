@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_620
+2
+643 142 208 275 0.9997111 
+210 127 220 289 0.9996859 

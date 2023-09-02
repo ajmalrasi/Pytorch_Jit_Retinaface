@@ -1,0 +1,3 @@
+32_Worker_Laborer_Worker_Laborer_32_68
+1
+385 358 401 381 0.99653864 

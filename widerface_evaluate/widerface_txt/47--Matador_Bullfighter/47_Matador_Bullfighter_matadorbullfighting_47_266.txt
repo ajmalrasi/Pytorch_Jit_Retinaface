@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_matadorbullfighting_47_266
+2
+253 97 64 76 0.9996019 
+636 393 14 17 0.029271297 

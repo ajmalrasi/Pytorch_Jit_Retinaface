@@ -1,0 +1,8 @@
+10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_1020
+6
+691 95 34 54 0.97356194 
+843 176 36 42 0.353097 
+900 281 71 58 0.08854756 
+915 277 42 39 0.06755857 
+680 299 12 15 0.03227544 
+876 220 28 31 0.021516517 

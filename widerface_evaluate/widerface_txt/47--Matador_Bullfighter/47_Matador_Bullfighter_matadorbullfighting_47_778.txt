@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_matadorbullfighting_47_778
+2
+426 259 148 189 0.9926473 
+306 263 41 69 0.076904096 

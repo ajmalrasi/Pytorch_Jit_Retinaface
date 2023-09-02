@@ -1,0 +1,3 @@
+32_Worker_Laborer_Worker_Laborer_32_170
+1
+495 587 118 102 0.99765766 

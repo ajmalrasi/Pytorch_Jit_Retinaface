@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_244
+3
+393 49 137 175 0.9996306 
+145 108 134 139 0.9994603 
+612 106 137 207 0.9929784 

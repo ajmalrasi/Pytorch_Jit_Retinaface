@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_120
+2
+278 133 499 639 0.99985695 
+160 726 349 455 0.6176375 

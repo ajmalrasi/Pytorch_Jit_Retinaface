@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_270
+3
+447 16 62 78 0.9976 
+307 146 39 46 0.6555211 
+180 149 32 38 0.070868336 
